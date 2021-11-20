@@ -1,29 +1,11 @@
-import React, { useContext, useEffect, useState } from 'react';
-import styled, { ThemeProvider } from 'styled-components';
-import ThemeContext from './contexts/ThemeContext';
-import LandingPage from './pages/LandingPage';
-import GlobalStyles from './styles/GlobalStyles';
-
-const AppStyles = styled.div`
-  /* visibility: ${({ loaded }) => (loaded ? 'visible' : 'hidden')}; */
-`;
+import React from 'react';
 
 function App() {
-  const { theme } = useContext(ThemeContext);
-  const [loaded, setLoaded] = useState(false);
-
-  useEffect(() => {
-    setLoaded(true);
-  }, []);
-
   return (
-    <AppStyles loaded={loaded}>
-      <ThemeProvider theme={{ theme }}>
-        <GlobalStyles />
-        <LandingPage />
-      </ThemeProvider>
-    </AppStyles>
+    <>
+      <h3>Project name: Artistic</h3>
+      <p>by Shaif Arfan</p>
+    </>
   );
 }
-
 export default App;
