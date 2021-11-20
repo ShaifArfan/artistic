@@ -11,6 +11,7 @@ const HeaderStyles = styled.header`
   top: 0;
   left: 0;
   width: 100%;
+  height: var(--header-height);
   background-color: ${({ theme: { theme } }) =>
     theme === themeList.light ? 'var(--lightBlue_1)' : 'var(--darkBlue_3)'};
   border-bottom: 1px solid var(--mediumSlateBlue);

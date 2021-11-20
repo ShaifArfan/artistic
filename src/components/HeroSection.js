@@ -7,12 +7,16 @@ import ParagraphText from './paragraphTexts/ParagraphText';
 import HeroTitle from './titles/HeroTitle';
 
 const HeroSectionStyles = styled.div`
+  min-height: 100vh;
+  padding-top: calc(var(--header-height) + 30px); // height of header
+  display: flex;
+  align-items: center;
+  justify-content: center;
   .hero__wrapper {
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100%;
-    min-height: 100vh;
     gap: 1rem;
   }
   .hero__info {
@@ -44,8 +48,6 @@ const HeroSectionStyles = styled.div`
         max-width: 400px;
         margin-top: auto;
       }
-    }
-    .hero__info {
     }
   }
 `;

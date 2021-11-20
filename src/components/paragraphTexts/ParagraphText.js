@@ -12,8 +12,8 @@ const ParagraphStyles = styled.p`
   }
 `;
 
-function ParagraphText({ children, ...props }) {
-  return <ParagraphStyles {...props}>{children}</ParagraphStyles>;
+function ParagraphText({ children, ...rest }) {
+  return <ParagraphStyles {...rest}>{children}</ParagraphStyles>;
 }
 
 export default ParagraphText;

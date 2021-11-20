@@ -32,7 +32,7 @@ We will be using React Context API to toggle `dark mode` feature. Hope you enjoy
 
 ## Starter files
 
-You can find all the starter files in `starter_files` branch. You can to go to the `starter_files` branch and `download zip` the the starter files or You can clone the project and git checkout to `starter_files` branch.
+You can find all the starter files in `starter-files` branch. You can to go to the `starter-files` branch and `download zip` the the starter files or You can clone the project and git checkout to `starter-files` branch.
 
 ## Getting Started
 

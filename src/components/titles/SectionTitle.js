@@ -12,8 +12,8 @@ const SectionStyles = styled.h3`
   }
 `;
 
-function SectionTitle({ children, ...props }) {
-  return <SectionStyles {...props}>{children}</SectionStyles>;
+function SectionTitle({ children, ...rest }) {
+  return <SectionStyles {...rest}>{children}</SectionStyles>;
 }
 
 export default SectionTitle;

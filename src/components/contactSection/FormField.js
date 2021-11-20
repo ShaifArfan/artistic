@@ -35,15 +35,15 @@ const FieldStyles = styled.div`
   }
 `;
 
-function FormField({ label, id, rows = 1, className, ...props }) {
+function FormField({ label, id, rows = 1, className, ...rest }) {
   return (
     <FieldStyles className={className}>
       <label htmlFor={id}>
         {label}
         {rows <= 1 ? (
-          <input id={id} {...props} />
+          <input id={id} {...rest} />
         ) : (
-          <textarea id={id} rows={rows} {...props} />
+          <textarea id={id} rows={rows} {...rest} />
         )}
       </label>
     </FieldStyles>

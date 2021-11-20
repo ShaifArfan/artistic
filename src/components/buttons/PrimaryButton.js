@@ -17,10 +17,10 @@ const ButtonsStyles = styled.a`
   }
 `;
 
-function PrimaryButton({ children, buttonType, ...props }) {
+function PrimaryButton({ children, buttonType, ...rest }) {
   return (
     <>
-      <ButtonsStyles as={buttonType} {...props}>
+      <ButtonsStyles as={buttonType} {...rest}>
         {children}
       </ButtonsStyles>
     </>

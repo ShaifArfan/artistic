@@ -13,8 +13,8 @@ const TitleStyles = styled.h1`
   }
 `;
 
-function HeroTitle({ children, ...props }) {
-  return <TitleStyles {...props}>{children}</TitleStyles>;
+function HeroTitle({ children, ...rest }) {
+  return <TitleStyles {...rest}>{children}</TitleStyles>;
 }
 
 export default HeroTitle;
