@@ -1,8 +1,8 @@
 import { createGlobalStyle } from 'styled-components';
-import '@fontsource/poppins';
 import themeList from '../data/themeList';
 
 // Typography
+import '@fontsource/poppins';
 import '@fontsource/poppins/500.css';
 import '@fontsource/poppins/600.css';
 import '@fontsource/poppins/700.css';
