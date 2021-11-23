@@ -61,8 +61,8 @@ function Footer() {
             <Logo className="footer__logo" />
           </Link>
           <ParagraphText className="footer__desc">
-            hello Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius
-            facilis harum ipsa laborum ipsum
+            “Artistic” is a studio of some passionate photographer. Our Goal is
+            to capture your experience.
           </ParagraphText>
           <div className="footer__links">
             <ul>

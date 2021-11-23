@@ -33,9 +33,18 @@ function ServicesSection() {
           <ServiceItem
             icon={<RiImageEditLine />}
             title="Professional Editing"
+            desc="We do professional photo editing. Let us help you to take your photo next level."
           />
-          <ServiceItem icon={<MdPhotoCamera />} title="Casual Photography" />
-          <ServiceItem icon={<RiHeartsFill />} title="Wedding Photography" />
+          <ServiceItem
+            icon={<MdPhotoCamera />}
+            title="Casual Photography"
+            desc="You can hire us for any kind of casual Photography. Book us for your next events. "
+          />
+          <ServiceItem
+            icon={<RiHeartsFill />}
+            title="Wedding Photography"
+            desc="Wedding is the most memorable events of our life. Let us help you to capture it."
+          />
         </div>
       </div>
     </ServicesSectionStyles>

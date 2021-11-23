@@ -53,8 +53,8 @@ function AboutSection() {
               Capturing life as it happens
             </SectionTitle>
             <ParagraphText className="about__desc">
-              Your ceremony & reception venues, your vision, your dress, your
-              colours and anything else you would like.
+              “Artistic” is a studio of some passionate photographer. Our Goal
+              is to capture your experience.
             </ParagraphText>
             <PrimaryButton buttonType={Link} to="contact" smooth>
               Get In Touch

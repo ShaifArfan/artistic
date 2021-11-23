@@ -64,15 +64,12 @@ const ServiceItemStyles = styled.div`
   }
 `;
 
-function ServiceItem({ icon, title }) {
+function ServiceItem({ icon, title, desc }) {
   return (
     <ServiceItemStyles>
       <div className="service__icon">{icon}</div>
       <div className="service__title">{title}</div>
-      <ParagraphText className="service__desc">
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. In fuga enim
-        natus ex,
-      </ParagraphText>
+      <ParagraphText className="service__desc">{desc}</ParagraphText>
     </ServiceItemStyles>
   );
 }

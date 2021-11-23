@@ -25,11 +25,10 @@ const ThemeSwitcherStyles = styled.div`
       display: flex;
       align-items: center;
       justify-content: center;
-      font-size: 1.5rem;
     }
     svg {
       width: 75%;
-      color: white;
+      color: var(--white);
     }
   }
   input {
@@ -48,11 +47,11 @@ const ThemeSwitcherStyles = styled.div`
     height: var(--size);
     width: var(--size);
     background-color: var(--mediumSlateBlue);
-    transition: 0.5s ease;
+    transition: 0.5s ease left;
     z-index: -1;
   }
   input:checked + label::after {
-    left: calc(100% - (var(--size) + var(--gap)));
+    left: calc(100% - var(--size) - var(--gap));
   }
 `;
 

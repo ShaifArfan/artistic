@@ -29,7 +29,6 @@ const HeaderStyles = styled.header`
       font-size: 1.6rem;
       font-weight: 500;
       padding: 0.5rem 1rem;
-      border-radius: 4px;
       color: ${({ theme: { theme } }) =>
         theme === themeList.light ? 'var(--darkBlue_2)' : 'var(--lightBlue_1)'};
     }
@@ -58,8 +57,6 @@ const HeaderStyles = styled.header`
     margin-left: 10px;
     padding: 3px;
     svg {
-      width: 100%;
-      height: 100%;
       color: ${({ theme: { theme } }) =>
         theme === themeList.light ? 'var(--darkBlue_2)' : 'var(--lightBlue_1)'};
     }
