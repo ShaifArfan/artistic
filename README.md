@@ -6,7 +6,7 @@ Made with ❤️ by [Shaif Arfan](http://instagram.com/shaifarfan08/)
 
 **Live preview: [https://wc-artistic.netlify.app/](https://wc-artistic.netlify.app/)**
 
-**Watch on YouTube: Coming Soon**
+**Watch on YouTube: [https://youtu.be/DTR2IbNBfPA](https://youtu.be/DTR2IbNBfPA)**
 
 ---
 
@@ -36,7 +36,7 @@ You can find all the starter files in `starter-files` branch. You can to go to t
 
 ## Getting Started
 
-The recommended way to get started with the project is Follow the [YouTube tutorial][youtubelink]. You will find all the step-by-step guides. Or you Can start the project on your own by following the guide below.
+The recommended way to get started with the project is Follow the [YouTube tutorial](https://youtu.be/DTR2IbNBfPA). You will find all the step-by-step guides. Or you Can start the project on your own by following the guide below.
 
 After getting the starter files, you need to go the file directory and run
 
@@ -70,11 +70,11 @@ Here are some Similar projects that you might be interested.
 
 ### Q: How can i get started?
 
-You can get started by following the YouTube tutorial of this project. Here is the full tutorial video link: [coming soon].
+You can get started by following the [YouTube tutorial](https://youtu.be/DTR2IbNBfPA) of this project. Here is the full tutorial video link: [coming soon].
 
 ### Q: What i need to start the project?
 
-Just open your favorite code editor and follow along with the `YouTube Tutorial`[coming soon].
+Just open your favorite code editor and follow along with the [YouTube Tutorial](https://youtu.be/DTR2IbNBfPA).
 
 ### Q: Who the project is for?
 
