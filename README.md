@@ -2,11 +2,17 @@
 
 # Artistic 📸
 
-Made with ❤️ by [Shaif Arfan](http://instagram.com/shaifarfan08/)
-
 **Live preview: [https://wc-artistic.netlify.app/](https://wc-artistic.netlify.app/)**
 
 **Watch on YouTube: [https://youtu.be/DTR2IbNBfPA](https://youtu.be/DTR2IbNBfPA)**
+
+---
+
+### Made with ❤️ by [Shaif Arfan](https://www.instagram.com/shaifarfan08/)
+
+Like my works and want to support me?
+
+<a href="https://www.buymeacoffee.com/shaifarfan08" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
 
 ---
 
