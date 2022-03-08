@@ -62,13 +62,9 @@ npm start
 1. UI Design: [Figma](https://www.figma.com/)
 1. Code Editor: [VS Code](https://code.visualstudio.com/)
 
-## Similar Projects
+## Other projects
 
-Here are some Similar projects that you might be interested.
-
-- [Ayan's Portfolio - React JS Project](https://github.com/ShaifArfan/AYANs-portfolio)
-- [Shaif's Cuisine - HTML, CSS project](https://github.com/ShaifArfan/shaif-s-cuisine)
-- [Amy's Portfolio - HTML, CSS Project](https://github.com/ShaifArfan/AMYs-Portfolio)
+📚 [All Web Cifar Project Tutorials](https://github.com/ShaifArfan/wc-project-tutorials)
 
 ---
 
